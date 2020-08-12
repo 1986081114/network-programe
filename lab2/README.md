@@ -1,8 +1,6 @@
 # dnsreport
 get the given hostname dns result from a dns server,support ipv4 and ipv6
 c++ linux dns client; use this to test your dns server.
-#download and make
-git clone https://github.com/zimalworld/dnsreport.git
 #
 cd ./dnsreport
 #
@@ -58,11 +56,6 @@ Authoritive Records : 0
 
 Additional Records : 0 
 
-
-## Donation
-If this project help you , you can give me a cup of coffee :) 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDS9UHMHDWDMY)
 
 
 
